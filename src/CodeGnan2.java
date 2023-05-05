@@ -1,6 +1,3 @@
-//5.write the output of the following code
-
-
 import java.util.Scanner;
 public class CodeGnan2 {
 

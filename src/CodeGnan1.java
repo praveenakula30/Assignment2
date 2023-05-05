@@ -1,4 +1,4 @@
-import java.util.*;
+
 class CodeGnan1 
 {
    int a=1;
